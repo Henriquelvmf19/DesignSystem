@@ -1,3 +1,4 @@
+.DS_Store
 ShowcaseServer/node_modules
-package-lock.json
-.env
+ShowcaseServer/package-lock.json
+ShowcaseServer/.env
